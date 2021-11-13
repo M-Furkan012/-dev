@@ -1,0 +1,63 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+//We loop the array with the "void" function, so the previous 2 numbers are added together to form a new number. And we define n, this is the value of n
+// If we want to see how many Fibonacci numbers, we enter that value.
+
+void fibonacci(int n)
+{
+    //since the "first" and "second" numbers of the fibonacci sequence are 0 and 1, we value them with ints, we define "next" and "i".
+
+    int ilk = 0;
+    int ikinci = 1;
+    int sonraki;
+    int i;
+
+    //here is an article showing how many were produced.
+
+    printf("Fibonacci'nin ilk sayilari:\n");
+
+    //Here we loop for i=0 and say i<n then increment i by 1 until it equals n, this way
+    // we see as many Fibonacci numbers as we want.
+
+    for (i = 0; i < n; i++)
+    {
+        //Here, if i<= 1 with the "if" conditional command, we equate the "next" number with i, then
+
+        if (i <= 1)
+        {
+            sonraki = i;
+        }
+        else
+
+            //We define what the value of "next" will be, since it is a fibonacci sequence, we can change "next" to "first" and
+            //We define "second" as general then "first" as "second" then "second" as "next" so fiboancci
+            // array will be done correctly.
+
+        {
+            sonraki = ilk + ikinci;
+            ilk = ikinci;
+            ikinci = sonraki;
+
+        }
+
+        // Here we print the "next" numbers according to the above rule.
+
+        printf("%d\n", sonraki);
+    }
+
+}
+
+int main()
+
+//We define n as a number in the "main" function, then we show what this program does, we write the number with "scanf". And
+//We show that Fibonacci is a number.
+
+{
+    int sayi;
+    printf("Kac adet fibonacci sayisi uretilecek\n");
+    scanf("%d", &sayi);
+    fibonacci(sayi);
+
+    return 0;
+}
