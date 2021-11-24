@@ -1,0 +1,30 @@
+﻿  LocalizationExample.c
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\message.h(55,1): warning C4005: 'TRY_AGAIN': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winsock.h(681): message : önceki 'TRY_AGAIN' tanımına bakın
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\message.h(64,1): warning C4005: 'Departmental_Store': makro yeniden tanımlama
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\message.h(28): message : önceki 'Departmental_Store' tanımına bakın
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(57,6): warning C4273: 'exit': tutarsız dll bağlantısı
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(56,48): message : önceki 'exit' tanımına bakın
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(75,10): warning C4101: 'ch': yerel değişken başvurusu kaldırıldı
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(96,10): warning C4101: 'ch': yerel değişken başvurusu kaldırıldı
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(283,50): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [21]' ile aynı değil
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(283,28): warning C4024: 'printTranslateLang': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(285,50): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [21]' ile aynı değil
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(285,28): warning C4024: 'printTranslateLang': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(320,42): warning C4020: 'printTranslateLang': çok fazla sayıda gerçek parametre
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(352,18): warning C4101: 'x': yerel değişken başvurusu kaldırıldı
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(446,55): warning C4020: 'printTranslateLang': çok fazla sayıda gerçek parametre
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(448,55): warning C4020: 'printTranslateLang': çok fazla sayıda gerçek parametre
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(450,55): warning C4020: 'printTranslateLang': çok fazla sayıda gerçek parametre
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(452,55): warning C4020: 'printTranslateLang': çok fazla sayıda gerçek parametre
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(713,31): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [2]' ile aynı değil
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(713,28): warning C4024: 'printTranslateLang': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(716,31): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [2]' ile aynı değil
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(716,28): warning C4024: 'printTranslateLang': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(717,30): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [3]' ile aynı değil
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(717,24): warning C4024: 'printTranslateLang': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(818,37): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'char [7]' ile aynı değil
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(818,28): warning C4024: 'printTranslateLang': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(818,39): warning C4020: 'printTranslateLang': çok fazla sayıda gerçek parametre
+C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\LocalizationExample\LocalizationExample.c(884,5): warning C4550: ifade bir bağımsız değişken listesi olmayan bir işlev olarak değerleniyor
+  LocalizationExample.vcxproj -> C:\Users\muham\OneDrive\Masaüstü\LocalizationExample\x64\Debug\LocalizationExample.exe
